@@ -113,7 +113,7 @@ PharmacyUser/
 
 **1. Clone the repository**
 ```
-git clone https://github.com/your-username/PharmacyUser.git
+git clone https:[//github.com/your-username/PharmacyUser.git](https://github.com/rudbaanika2580/PharmacyUser)
 ```
 
 **2. Set up the database**
